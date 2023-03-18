@@ -13,7 +13,7 @@
 
 •	🌱 I’m currently learning Data Structures, Algorithms, System Design and Advance Topics in Software Development Concepts.
 
-•	💬 Ask me about Software and Web Development.
+•	💬 Ask me about Software Development and Machine Learning.
 
 •	👨 Pronouns: He/Him
 
