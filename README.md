@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-•	🔭 I’m currently pursuing Master's degree in Computer Science at California State University LongBeach.
+•	🔭 I have done Master's degree in Computer Science at California State University LongBeach.
 
 •	🌱 I’m currently learning Data Structures, Algorithms, System Design and Advance Topics in Software Development Concepts.
 
