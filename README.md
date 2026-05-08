@@ -1,4 +1,14 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4b4,100:f5a623&height=200&section=header&text=Pathik%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20NLP%20Specialist&descAlignY=58&descSize=18" width="100%"/> [![Portfolio](https://img.shields.io/badge/Portfolio-pathik1511.github.io-00d4b4?style=for-the-badge&logo=safari&logoColor=white)](https://pathik1511.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-patelpathik15-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patelpathik15) [![Kaggle](https://img.shields.io/badge/Kaggle-pathik1511-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pathik1511) [![Email](https://img.shields.io/badge/Email-pathikpatel660@gmail.com-f5a623?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathikpatel660@gmail.com) [![Profile Views](https://komarev.com/ghpvc/?username=pathik1511&style=for-the-badge&color=00d4b4&label=PROFILE+VIEWS)](https://github.com/pathik1511) </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4b4,100:f5a623&height=200&section=header&text=Pathik%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20NLP%20Specialist&descAlignY=58&descSize=18" width="100%"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pathik1511.github.io-00d4b4?style=for-the-badge&logo=safari&logoColor=white)](https://pathik1511.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-patelpathik15-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patelpathik15)
+[![Kaggle](https://img.shields.io/badge/Kaggle-pathik1511-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pathik1511)
+[![Email](https://img.shields.io/badge/Email-pathikpatel660@gmail.com-f5a623?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathikpatel660@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=pathik1511&style=for-the-badge&color=00d4b4&label=PROFILE+VIEWS)](https://github.com/pathik1511)
+
+</div>
 
 ---
 
@@ -37,10 +47,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=pathik1511&show_icons=true&theme=tokyonight&bg_color=060d1f&title_color=00d4b4&icon_color=f5a623&text_color=e8edf6&border_color=00d4b4&hide_border=false&count_private=true" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathik1511&layout=compact&theme=tokyonight&bg_color=060d1f&title_color=00d4b4&text_color=e8edf6&border_color=00d4b4&hide_border=false" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pathik1511&theme=tokyonight&background=060d1f&ring=00d4b4&fire=f5a623&currStreakLabel=00d4b4&border=00d4b4" width="500"/>
+
 </div>
 
 ---
