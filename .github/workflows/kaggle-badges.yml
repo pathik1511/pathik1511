@@ -1,7 +1,5 @@
 # Place this file at: .github/workflows/kaggle-badges.yml
-# Generates SVG badges showing your CURRENT Kaggle ranks (Competitions, Datasets,
-# Notebooks, Discussions) and commits them to the repo.
-# Runs daily + on every push + manually via the Actions tab.
+# Generates SVG badges showing your CURRENT Kaggle ranks and commits them to the repo.
 
 name: Kaggle Badges
 
@@ -32,7 +30,7 @@ jobs:
         run: npx puppeteer browsers install chrome@131.0.6778.85
 
       - name: Generate Kaggle badges
-        uses: spider-man-tm/kaggle-badges@v1.3.0
+        uses: takayoshi-makabe/kaggle-badges@v1.4.0
         with:
           user_name: pathik1511
 
@@ -40,6 +38,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ./kaggle-badges/* ./kaggle-plates/*
-          git commit -m "chore: update Kaggle rank badges" || echo "No changes to commit"
-          git push
+          if [ -d ./kaggle-badges ] || [ -d ./kaggle-plates ]; then
+            git add ./kaggle-badges ./kaggle-plates 2>/dev/null || true
+            git commit -m "chore: update Kaggle rank badges" || echo "No changes to commit"
+            git push
+          else
+            echo "::error::No badge files were generated - check that the Kaggle username is correct and has ranked categories"
+            exit 1
+          fi
