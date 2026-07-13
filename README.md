@@ -106,17 +106,15 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-pathik1511-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pathik1511)
 
-<!-- Live tier + medal badges (third-party service) -->
+<!-- Live tier badge (third-party service, verified working) -->
 [![Kaggle Tier](https://road-to-kaggle-grandmaster.vercel.app/api/simple/pathik1511)](https://www.kaggle.com/pathik1511)
 
+<!-- Live per-category badges — each one displays your CURRENT rank number
+     (shows "Unranked" until you earn a competition ranking) plus medal counts -->
 [![Competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pathik1511/competition)](https://www.kaggle.com/pathik1511/competitions)
 [![Dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pathik1511/dataset)](https://www.kaggle.com/pathik1511/datasets)
 [![Notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pathik1511/notebook)](https://www.kaggle.com/pathik1511/code)
 [![Discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pathik1511/discussion)](https://www.kaggle.com/pathik1511/discussion)
-
-<!-- The competition badge above shows your live rank automatically once Kaggle
-     assigns you one (it displays "Unranked" until you earn ranking points from
-     medal-eligible competition finishes). -->
 
 </div>
 
