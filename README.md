@@ -131,16 +131,18 @@ I'm actively competing in ML challenges and sharing reproducible work with the K
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [☁️ ATS Resume Screener](https://github.com/pathik1511/ATS_using_google_gemini) | AI-powered Applicant Tracking System using Google Gemini for resume scoring | Python · Gemini · NLP |
-| [🧠 Kidney Disease Classification](https://github.com/pathik1511/Kidney-Disease-Classification-DeepLearning-Project-MlFlow) | End-to-end deep learning pipeline with MLflow experiment tracking | PyTorch · MLflow · DVC |
-| [🐔 Chicken Disease Detection](https://github.com/pathik1511/Chicken-Disease_endtoend_project) | End-to-end ML project with CI/CD pipeline and cloud deployment | Python · DVC · Docker |
-| [☕ Coffee Sales Forecasting](https://github.com/pathik1511/-Coffee-Bean-Store-Sales-Prediction-and-Inventory-Optimization) | Sales prediction & inventory optimisation with ML models | Python · Scikit-learn · Pandas |
-| [📝 Text-to-SQL](https://github.com/pathik1511/texttosql) | Natural language to SQL query generation using LLMs | Python · LLM · SQL |
-| [🌿 Cassava Leaf Disease](https://github.com/pathik1511/Casava_Leaves) | Computer vision model for plant disease classification | TensorFlow · CNN · Kaggle |
+| Project | Category | What it does | Stack |
+| --- | --- | --- | --- |
+| 🏆 **[LLM Prompt Recovery](https://github.com/pathik1511/llm-prompt-recovery)** | NLP · LLM | Recovers hidden rewrite prompts from Gemma input/output pairs via perplexity-based candidate ranking — Kaggle competition | Python · Transformers · open-llama-7b |
+| 🏆 **[CommonLit — Evaluate Student Summaries](https://github.com/pathik1511/commonlit-evaluate-student-summaries)** | NLP · Transformers | Two-target transformer regressor scoring student summaries on content & wording, with prompt-grouped CV — Kaggle competition | Python · DeBERTa · HuggingFace |
+| 🧠 **[Kidney Disease Classification](https://github.com/pathik1511/Kidney-Disease-Classification-DeepLearning-Project-MlFlow)** | Deep Learning · MLOps | End-to-end DL pipeline with MLflow experiment tracking, DVC versioning & staged workflow | PyTorch · MLflow · DVC |
+| 🐔 **[Chicken Disease Detection](https://github.com/pathik1511/Chicken-Disease_endtoend_project)** | Computer Vision · MLOps | End-to-end image classification with CI/CD pipeline and cloud deployment | Python · DVC · Docker |
+| ☁️ **[ATS Resume Screener](https://github.com/pathik1511/ATS_using_google_gemini)** | GenAI · NLP | AI-powered applicant tracking system scoring resumes against job descriptions using Google Gemini | Python · Gemini · NLP |
+| 📝 **[Text-to-SQL](https://github.com/pathik1511/texttosql)** | NLP · LLM | Natural-language-to-SQL query generation using LLMs | Python · LLM · SQL |
+| ☕ **[Coffee Sales Forecasting](https://github.com/pathik1511/-Coffee-Bean-Store-Sales-Prediction-and-Inventory-Optimization)** | ML · Forecasting | Sales prediction & inventory optimisation with classical ML models | Python · Scikit-learn · Pandas |
+| 🌿 **[Cassava Leaf Disease](https://github.com/pathik1511/Casava_Leaves)** | Computer Vision | CNN model for plant disease classification | TensorFlow · CNN · Kaggle |
 
----
+> 🏆 = Kaggle competition solution · Browse all my Kaggle work at **[kaggle.com/pathik1511](https://www.kaggle.com/pathik1511)**
 
 ## 📈 Impact Highlights
 
